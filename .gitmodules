@@ -1,0 +1,3 @@
+[submodule "cataloguesSegmentationOCR"]
+	path = cataloguesSegmentationOCR
+	url = https://github.com/Juliettejns/cataloguesSegmentationOCR.git
