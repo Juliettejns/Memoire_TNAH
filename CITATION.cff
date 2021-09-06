@@ -1,0 +1,12 @@
+
+cff-version: 1.2.0
+message: "If you use this thesis, please cite it as below."
+authors:
+- family-names: "Janes"
+  given-names: "Juliette"
+  orcid: "https://orcid.org/0000-0002-8971-6173"
+title: "Du catalogue papier au numé-rique : Une chaîne de traitement ouverte pour l’extraction d’informations issues de documents structurés"
+version: 0.0
+doi:  none
+date-released: 2021-09-06
+url: "https://github.com/Juliettejns/Memoire_TNAH"
