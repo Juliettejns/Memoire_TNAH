@@ -24,7 +24,7 @@ Les autres images sont extraites de catalogues publiées après 1920 et sont la 
 ![68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792f322e302f38387833312e706e67](https://user-images.githubusercontent.com/56683417/115525743-a78d2400-a28f-11eb-8e45-4b6e3265a527.png)
 
 ### Cite this repository
-Juliette Janès, _Du catalogue papier au numérique : Une chaîne de traitement ouverte pour l’extraction d’informations issues de documents structurés_, mémoire de master « Technologies numériques appliquées à l’histoire »,dir. Thibault Clérice et Simon Gabay, École nationale des chartes, 2021, https://github.com/Juliettejns/Memoire_TNAH.
+Juliette Janès, _Du catalogue papier au numérique : Une chaîne de traitement ouverte pour l’extraction d’informations issues de documents structurés_, mémoire de master « Technologies numériques appliquées à l’histoire »,dir. Thibault Clérice et Béatrice Joyeux-Prunel, École nationale des chartes, 2021, https://github.com/Juliettejns/Memoire_TNAH.
 
   
   
