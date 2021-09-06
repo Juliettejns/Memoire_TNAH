@@ -16,7 +16,7 @@
   
   - ```1_Jeux_de_donnees``` correspond au dépôt réalisé dans le cadre de l'élaboration d'un corpus d'entraînement de modèles d'HTR.
   - ```2_Extraction_Data``` correspond au dépôt contenant le programme python d'extraction de données de fichiers ALTO et d'encodage automatique en XML-TEI
-  - ```3_Catalogues_Encodés``` contient les catalogues encodés par la chaîne de traitement réalisée au cours de ce stage. (Un détail plus poussé de ce travail est disponible [ici](https:github.com/Juliettejns/TEIcatalogs).)
+  - ```3_Catalogues_Encodés``` contient les catalogues encodés par la chaîne de traitement réalisée au cours de ce stage. (Un détail plus poussé de ce travail est disponible [ici](https://github.com/Juliettejns/TEIcatalogs).)
   
 ### Licence
 Les images des catalogues publiées avant 1920, les transcriptions et le code sont CC-BY.</br>
@@ -24,7 +24,7 @@ Les autres images sont extraites de catalogues publiées après 1920 et sont la 
 ![68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792f322e302f38387833312e706e67](https://user-images.githubusercontent.com/56683417/115525743-a78d2400-a28f-11eb-8e45-4b6e3265a527.png)
 
 ### Cite this repository
-Juliette Janès, _Du catalogue papier au numérique : Une chaîne de traitement ouverte pour l’extraction d’informations issues de documents structurés_, mémoire de master « Technologies numériques appliquées à l’histoire »,dir. Thibault Clérice et Simon Gabay, École nationale des chartes, 2021
+Juliette Janès, _Du catalogue papier au numérique : Une chaîne de traitement ouverte pour l’extraction d’informations issues de documents structurés_, mémoire de master « Technologies numériques appliquées à l’histoire »,dir. Thibault Clérice et Simon Gabay, École nationale des chartes, 2021, https://github.com/Juliettejns/Memoire_TNAH.
 
   
   
