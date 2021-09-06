@@ -1,6 +1,6 @@
 # Mémoire de stage du master "Technologies numériques appliquées à l'Histoire"
 
-## _Du catalogue papier au numérique : Une chaîne de traitement ouverte pour l’extraction d’informations issues de docu-ments structurés_
+## _Du catalogue papier au numérique : Une chaîne de traitement ouverte pour l’extraction d’informations issues de documents structurés_
 
 <div align="justify">
 
