@@ -16,7 +16,7 @@
   
   - ```1_Jeux_de_donnees``` correspond au dépôt réalisé dans le cadre de l'élaboration d'un corpus d'entraînement de modèles d'HTR.
   - ```2_Extraction_Data``` correspond au dépôt contenant le programme python d'extraction de données de fichiers ALTO et d'encodage automatique en XML-TEI
-  - ```3_Catalogues_Encodés``` contient les catalogues encodés par la chaîne de traitement réalisée au cours de ce stage.
+  - ```3_Catalogues_Encodés``` contient les catalogues encodés par la chaîne de traitement réalisée au cours de ce stage. (Un détail plus poussé de ce travail est disponible [ici](https:github.com/Juliettejns/TEIcatalogs).)
   
 ### Licence
 Les images des catalogues publiées avant 1920, les transcriptions et le code sont CC-BY.</br>
